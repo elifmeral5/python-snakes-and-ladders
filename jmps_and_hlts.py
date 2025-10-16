@@ -1,9 +1,6 @@
 """
 File: jmps_and_hlts.py
 Author: Elif Meral
-Date: 03/29/24
-Section: 24
-E-mail: elifm1@umbc.edu
 Description: User inputs map length and seed to play a version of
             snakes and ladders.
 """
